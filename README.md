@@ -1,2 +1,2 @@
 # Mini-ATM-
-🏧 Fully Functional Mini ATM using JAVA ☕ 💳
+🏧 fully Functional Mini ATM using JAVA ☕ 💳
